@@ -1,4 +1,4 @@
-const form = document.querySelector(".form")
+const form = document.querySelector(".formulario-fale-conosco")
 const mascara = document.querySelector(".mascara-formulario")
 function contato(){
     form.style.left ="50%"

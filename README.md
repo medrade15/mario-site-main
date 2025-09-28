@@ -46,4 +46,4 @@ Criação de uma landing page funcional e visualmente atrativa
 Você pode visualizar o projeto diretamente aqui (Adicione um link de deploy se estiver hospedado no Vercel, Netlify ou GitHub Pages)
 
 👨‍💻 Autor
-Yan Isonel Pereira 📧 ysogeek@hotmail.com
+Fernando Medrade desenvolvedor 📧 
